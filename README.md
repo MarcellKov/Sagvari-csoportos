@@ -1,3 +1,7 @@
 # Sagvari-csoportos
 
-Baráth Kristóf Erdűhelyi Márk Kovács Marcell
+## Tagok
+
+- Baráth Kristóf
+- Erdűhelyi Márk
+- Kovács Marcell
