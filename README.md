@@ -2,6 +2,6 @@
 
 ## Tagok
 
-- Baráth Kristóf
-- Erdűhelyi Márk
+- Skribanek Benedek
+- Erdőhelyi Márk
 - Kovács Marcell
